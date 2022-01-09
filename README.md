@@ -3,7 +3,7 @@
 
 Worked on with Kobe Chen
 
-THis project uses an integrating sphere, PSoC, Python, and Excel. I explored LED based single photon avalanche detector. 
+This project uses an integrating sphere, PSoC, Python, and Excel. I explored LED based single photon avalanche detector. 
 
 Below is an image of the integrating sphere making sure the only light that got the reverse biased LED was from the source light.
 
