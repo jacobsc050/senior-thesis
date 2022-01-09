@@ -24,4 +24,4 @@ After the data from the PSoC got to the serial port I used python to collect the
  
 Here is the scientific paper written in Latex to explain the project in more detail. 
  
-[Latex Output](https://github.com/jacobsc050/senior-thesis/blob/main/assets/Senior%20Thesis.pdf)
+[Latex output](https://github.com/jacobsc050/senior-thesis/blob/main/assets/Senior%20Thesis.pdf)
