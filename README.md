@@ -20,7 +20,7 @@ The code for the PSoC to collect the data from the reverse biased LED and output
  
 After the data from the PSoC got to the serial port I used python to collect the data and transfer it to an excel file.
  
-[collecting Serial output with Python](https://github.com/jacobsc050/senior-thesis/blob/main/photonCountings.py)
+[Collecting Serial output with Python](https://github.com/jacobsc050/senior-thesis/blob/main/photonCountings.py)
  
 Here is the scientific paper written in Latex to explain the project in more detail. 
  
