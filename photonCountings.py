@@ -10,8 +10,8 @@ counter = 1
 
 
 
-counter = 10
-workbook = xlsxwriter.Workbook('dataTest.xlsx')
+counter = 10 #change to number of datapoints
+workbook = xlsxwriter.Workbook('changeToTodaysDate.xlsx')
 worksheet = workbook.add_worksheet()
 col = 0
 for columnHead in ["Counter 1"]:
